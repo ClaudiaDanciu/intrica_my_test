@@ -5,8 +5,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>intric@</title>
-<meta name="description" content="">
-<meta name="author" content="">
+<meta name="intrica" content="App Web Developers">
+<meta name="intrica" content="App Web Developers">
 <link rel="icon" href="img/intrica.svg">
 <!-- Favicons
     ================================================== -->
@@ -147,8 +147,8 @@
           <ol class="type">
             <li><a href="#" data-filter="*" class="active">All</a></li>
             <li><a href="#" data-filter=".web">Web Design</a></li>
-            <li><a href="#" data-filter=".app">Web Development</a></li>
-            <li><a href="#" data-filter=".branding">eCommerce</a></li>
+            <li><a href="#" data-filter=".dev">Web Development</a></li>
+            <li><a href="#" data-filter=".ecomm">eCommerce</a></li>
           </ol>
         </li>
       </ul>
@@ -275,7 +275,7 @@
       <div class="col-md-3 col-sm-6 team">
         <div class="thumbnail"> <img src="img/team/Claudia.jpg" alt="..." class="team-img">
           <div class="caption">
-            <h3>Jane Doe</h3>
+            <h3>Joe Doe</h3>
             <p>Creative Director</p>
           </div>
         </div>
@@ -349,7 +349,7 @@
 </div>
 <div id="footer">
   <div class="container">
-    <p>Copyright &copy; ClaudiaDanciu. Designed by <a href="http://www.claudiadanciu.com" rel="nofollow">Claudia Danciu</a></p>
+    <p>Copyright &copy; intrica. Designed by <a href="intrica.net" rel="nofollow">intrica</a></p>
   </div>
 </div>
 
@@ -358,11 +358,7 @@
 <script type="text/javascript" src="js/jquery.1.11.1.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script type="text/javascript" src="js/bootstrap.js"></script> 
-<script type="text/javascript" src="js/SmoothScroll.js"></script> 
-<script type="text/javascript" src="js/jquery.prettyPhoto.js"></script> 
-<script type="text/javascript" src="js/jquery.isotope.js"></script> 
 <script type="text/javascript" src="js/jqBootstrapValidation.js"></script> 
-<script type="text/javascript" src="js/contact_me.js"></script> 
 
 <!-- Javascripts
     ================================================== --> 
